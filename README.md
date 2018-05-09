@@ -1,2 +1,2 @@
 # snakeJS
-# Snake realized with pure JavaScript
+# Snake realized on canvas with pure JavaScript
